@@ -6,7 +6,7 @@ app to take notes
   ![alt text](./assets/images/readmeimg.png)
 
   ## Site Link
-  https://note-taker-hok4.onrender.com/notes 
+  https://note-taker-hok4.onrender.com/
 
   ## Description
   This project is a simple note taker. It's main purpose is to allow users to write note reminders for tasks they have to do.
